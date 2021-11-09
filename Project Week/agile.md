@@ -48,4 +48,48 @@
 2. give you a list of task 
 3. you need to prioritize them 1st, 2nd, 3rd ...etc
 4. no right answer
-5. 
+   ```
+    As a registered user, I want to save items I would like to purchase in a cart so I can check out all at once.
+
+    2nd - As a website visitor, I want to be able to click a button and add my credit card information so I can buy an item online.
+
+    As a registered user, I want to be able to register for emails so I can receive shipping updates.
+
+    As a website visitor, I want to create an account as a registered user so I can save my information.
+
+    As a website visitor, I want to be able to read reviews for products so I can assess their quality before I buy.
+
+    As a website visitor, I want to be able to review products so I can share my experience with other users.
+
+    1st - As a website visitor, I want to be able to view products categorized into groups so I can browse efficiently. 
+    ```
+5. __Ask the class__ `What do we do when we get into the breakout room?`
+    1. setup trello account
+    2. prioritize user stories
+
+## () Designing you MVP 
+1. Small steps
+1. build one step at a time, deploy, and go again
+
+## Examples
+1. MVP -> core of the app
+1. pickout some of the features and have the class build user stories for the features
+1. required to submit of a wireframe
+
+## Individual VS Group Work
+1. For python we are going to push for the individual work. 
+2. there are beneifits to doing both, group and individual. 
+3. get it out of the way, __important__ for imployeers to see that you have something that is YOURS alone. 
+4. in other stacks you will be able to work on group assigments. 
+5. If you have only worked in groups then you have only done part of all your projects
+
+## () Meeting schedule 
+1. planning meeting - MVP -> begining of a sprint
+    1. present your....
+        - MVP
+        - Wireframe
+        - trello board -> user stories
+        - timeline
+2. Daily standups
+    - Asigned groups
+    - (CA) Coders Anonimous -> support group.  
