@@ -15,7 +15,7 @@
 3. Created about 20 years ago
 4. creates space for iterative feedback and continuous improvement 
 
-## (slide __ ) Waterfall VS Agile
+## (slide 5 ) Waterfall VS Agile
  1.  waterfall = discover -> plan -> build -> review
      1.  only deploy when project is complete 
      2.  start and finish
@@ -25,25 +25,25 @@
          1.  pivot from origional plans
          2.  deploy sooner
 
-## () User Stories
+## (slide 6) User Stories
 1. always thinking about the user
    1. AS A _role_
    2. I WANT _goal_
    3. SO THAT _benefit_
 2. Descussion questions -> on the side
 
-## () Example Ebay slide
+## (slide 7) Example Ebay slide
 1. class participation -> class creates user stories
    1. potential breakout rooms
    2. find a popular website and break it down
 
-## A platform to keep track -> Trello Boards
+## (slide 8) A platform to keep track -> Trello Boards
 1. columns
    1. to do
    2. doing
    3. done
 
-# Activities
+## (slide 9) Activities
 1. setup trello board
 2. give you a list of task 
 3. you need to prioritize them 1st, 2nd, 3rd ...etc
@@ -67,7 +67,7 @@
     1. setup trello account
     2. prioritize user stories
 
-## () Designing you MVP 
+## (slide 10) Designing you MVP 
 1. Small steps
 1. build one step at a time, deploy, and go again
 
@@ -76,14 +76,14 @@
 1. pickout some of the features and have the class build user stories for the features
 1. required to submit of a wireframe
 
-## Individual VS Group Work
+## (slide 15) Individual VS Group Work
 1. For python we are going to push for the individual work. 
 2. there are beneifits to doing both, group and individual. 
 3. get it out of the way, __important__ for imployeers to see that you have something that is YOURS alone. 
 4. in other stacks you will be able to work on group assigments. 
 5. If you have only worked in groups then you have only done part of all your projects
 
-## () Meeting schedule 
+## (slide 16) Meeting schedule 
 1. planning meeting - MVP -> begining of a sprint
     1. present your....
         - MVP
